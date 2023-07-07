@@ -1,3 +1,4 @@
+# ParaLLaMA
 # parallelize openlm llama for huggingface
 
 we change the original code of modeling_llama.py from "huggingface", as we want to finetune the llama on limited resources
